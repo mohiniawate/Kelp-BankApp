@@ -1,0 +1,8 @@
+E:\Final_Project\Project\KelpBankingApplication\obj\Debug\KelpBankingApplication.csproj.AssemblyReference.cache
+E:\Final_Project\Project\KelpBankingApplication\obj\Debug\KelpBankingApplication.csproj.SuggestedBindingRedirects.cache
+E:\Final_Project\Project\KelpBankingApplication\obj\Debug\KelpBankingApplication.csproj.CoreCompileInputs.cache
+E:\Final_Project\Project\KelpBankingApplication\bin\Debug\KelpBankingApplication.exe.config
+E:\Final_Project\Project\KelpBankingApplication\bin\Debug\KelpBankingApplication.exe
+E:\Final_Project\Project\KelpBankingApplication\bin\Debug\KelpBankingApplication.pdb
+E:\Final_Project\Project\KelpBankingApplication\obj\Debug\KelpBankingApplication.exe
+E:\Final_Project\Project\KelpBankingApplication\obj\Debug\KelpBankingApplication.pdb
